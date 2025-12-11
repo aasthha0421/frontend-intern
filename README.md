@@ -57,17 +57,15 @@ Fast, reliable hosting with instant builds.
 
 🧱 Folder Structure
 src/
-├── components/
-│   ├── QuestionCard.jsx
-│   ├── OptionButton.jsx
-│   ├── Result.jsx
-│
-├── assets/
-│   ├── (images if any)
-│
-├── App.jsx
-├── main.jsx
-├── index.css
+  components/
+    QuestionCard.jsx
+    OptionButton.jsx
+    Result.jsx
+  assets/
+    (images if any)
+  App.jsx
+  main.jsx
+  index.css
 
 📝 Assumptions Made
 -The assignment did not provide a specific Figma file, so I created a clean, desktop-first quiz interface following modern UI patterns.
